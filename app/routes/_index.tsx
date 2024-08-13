@@ -11,6 +11,9 @@ export default function Index() {
   return (
     <div>
       <h2>Hola </h2>
+      <p>
+        Sitio web listo 
+      </p>
     </div>
   );
 }
